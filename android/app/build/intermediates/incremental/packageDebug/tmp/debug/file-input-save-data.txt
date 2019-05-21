@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon May 20 22:00:53 BRT 2019
+#Mon May 20 22:28:24 BRT 2019
 5.base=/home/carlosviana/Documents/rnMasterClass/mcAsyncStorage/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/home/carlosviana/Documents/rnMasterClass/mcAsyncStorage/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 22.path=lib/armeabi-v7a/libfolly_json.so
