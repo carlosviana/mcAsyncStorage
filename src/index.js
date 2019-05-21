@@ -1,14 +1,23 @@
 import React, { Component } from "react";
-import { View, Text } from "react-native";
+import { View, Text, StyleSheet } from "react-native";
 
 import "./config/reactotron";
+
+import Routes from "./routes";
 
 export default class App extends Component {
     render() {
         return (
-            <View>
-                <Text>Modelo básico</Text>
+            <View style={styles.container}>
+                <Routes />
             </View>
         );
     }
 }
+
+const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        backgroundColor: "#da22a2"
+    }
+});
