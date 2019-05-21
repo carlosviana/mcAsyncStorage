@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/carlosviana/Documents/rnMasterClass/mcAsyncStorage/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/carlosviana/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cb79f82eeb56c8d3861eadda6bc48c9c/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
